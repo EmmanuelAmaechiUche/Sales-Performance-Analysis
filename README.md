@@ -75,9 +75,26 @@ Fashion Retail Sales Dataset
 
   <img width="1441" height="748" alt="Fashion Retail Sales Dashboard" src="https://github.com/user-attachments/assets/f689358f-11fe-431a-b27b-976c8555ea49" />
 
+  ## Recommendation
 
+  - Inventory Optimization and Demand Allocation: To minimize financial drag from stock mismanagement, inventory must be dynamically aligned with customers demand.
+    Adequate stock levels must be strictly maintained with a specific priority placed on clothing and high performing product, and distributions should be based on
+    demand metrics to concurrently prevent stock outs of popular items and avoid carrying excess stock.
+  - Sustaining Core Markets and Investigate Underperforming Markets: Maintain strong baseline sales in Lagos by ensuring consistent stock of highly popular product
+    and conduct a formal investigation into underlying causes of lower revenue in Delta State to formulate corrective operational or commercial measures.
+  - Customer Retention: implement customer loyalty programs structured to encourage purchasing behavior. Build on the loyal base, use whatsapp broadcast and early
+    access for returning customers, and bundle weak items (Cap, Belt) with top sellers.
+  - Capitalize on early year momentum January & March, do not wait for sales to drop.Proactively run mid-year promotional campaigns or targeted marketing pushes
+    in May to maintain momentum and cushion the revenue drop experienced in June and July. Use the cash generated during the strong early month peaks to optimize
+    supply chain cost and stock up on top performing products ahead of the steady late year recovery period
+  - Unnecessary promotional spending must be strictly curtailed, check discount depth, stock and timing for Black Friday and Christmas. Run fewer, bigger campaigns
+    and cut unnecessary promo spending.
 
-    ## Recommendation
+  
+
+    
+
+  
   
 
 
