@@ -5,7 +5,7 @@ A beginner friendly sales analysis project done in Excel
 
 - [Project Background](#project-background)
 - [Data Sources](#data-sources)
-- [Overview/Findings](#overview/findings)
+- [Overview And Findings](#overview-and-findings)
 - [Sales Dashboard](#sales-dashboard)
 - [Recommendation](#recommendation)
 
@@ -48,7 +48,7 @@ Fashion Retail Sales Dataset
   - What are the campaign impact and customer behaviour
 
   ## Executive Summary
-  ### Overview/Findings
+  ### Overview And Findings
   Across 2024 to 2026 the business earned 80.30 million in revenue and 31.37 million in profit from 2,527 units sold. Growth is real but slow. Revenue rose from 24.2M
   to 25.6M to 30.6M. In 2026 January started exceptionally high at approximately 3.50M, representing the high signal monthly spike across all the three years, although
   it dipped slightly in February, it rebounded strongly with another major peak in March
