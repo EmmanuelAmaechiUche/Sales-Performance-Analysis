@@ -5,7 +5,9 @@ A beginner friendly sales analysis project done in Excel
 
 - [Project Background](#project-background)
 - [Data Sources](#data-sources)
-- [Overview/Findings](#overview/findings) 
+- [Overview/Findings](#overview/findings)
+- [Sales Dashboard](#sales-dashboard)
+- [Recommendation](#recommendation)
 
 ## Project Background
 This project looks at a Nigeria fashion retail Business that sells clothing, footwear, and accessories through its physical store, website, instagram, and Whatsapp, with orders from Lagos, Abuja, Oyo, Rivers and Delta
